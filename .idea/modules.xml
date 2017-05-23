@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Eureka/Eureka.iml" filepath="$PROJECT_DIR$/Eureka/Eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/Feign/Feign.iml" filepath="$PROJECT_DIR$/Feign/Feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/computer_service/computer_service.iml" filepath="$PROJECT_DIR$/computer_service/computer_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_cloud.iml" filepath="$PROJECT_DIR$/spring_cloud.iml" />
     </modules>
   </component>

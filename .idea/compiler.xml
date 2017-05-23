@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="computer_service" />
+        <module name="configserver" />
         <module name="Eureka" />
         <module name="Feign" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="computer_service" target="1.6" />
+      <module name="configserver" target="1.6" />
       <module name="Eureka" target="1.6" />
       <module name="Feign" target="1.6" />
       <module name="spring_cloud" target="1.5" />
